@@ -17,7 +17,7 @@ Accordingly, the Issues feature of this repository has been disabled. Discussion
 
 We encourage you to [open a discussion](https://github.com/wlan-pi/feedback/discussions) if you have suggestions for how we can improve WLAN Pi. You don't need to have a solution to the problem you are facing to kick off a discussion. We are hoping to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/WLAN-Pi/feedback/discussions/2) if you want some guidance on how to kick off a successful discussion.
 
-Prior to making a new discussion, please take a look through previous discussions to see if someone else has already brought to our attention your suggestions. If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new discussion. We are more likely to work on discussions that bring value to multiple folks. Also please review the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before participating in discussions.
+Prior to making a new discussion, please take a look through previous discussions to see if someone else has already brought to our attention your suggestions. If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new discussion. We are more likely to work on discussions that bring value to multiple folks. Also please review the [code of conduct](CODE_OF_CONDUCT.md) before participating in discussions.
 
 # Disclaimer
 
