@@ -6,8 +6,10 @@ In this repository, you will find the official WLAN Pi public feedback discussio
 * [WLAN Pi Chatbot](https://github.com/WLAN-Pi/wlanpi-chat-bot) - [Chatbot Feedback](https://github.com/WLAN-Pi/feedback/discussions/categories/chatbot-feedback)
 * [WLAN Pi Docs](https://docs.wlanpi.com) - [Documentation Feedback](https://github.com/WLAN-Pi/feedback/discussions/categories/documentation-feedback)
 * [WLAN Pi FPMS](https://github.com/WLAN-Pi/wlanpi-fpms) - [Front Panel Menu System Feedback](https://github.com/WLAN-Pi/feedback/discussions/categories/front-panel-menu-system-fpms-feedback)
+* [WLAN Pi Hotspot](https://github.com/WLAN-Pi/wlanpi-hotspot) - [Hotspot Mode Feedback](https://github.com/WLAN-Pi/feedback/discussions/categories/hotspot-mode-feedback)
 * [WLAN Pi Profiler](https://github.com/WLAN-Pi/wlanpi-profiler) - [Profiler Feedback](https://github.com/WLAN-Pi/feedback/discussions/categories/profiler-feedback)
 * [WLAN Pi WebUI](https://github.com/WLAN-Pi/wlanpi-core) - [WebUI Feedback](https://github.com/WLAN-Pi/feedback/discussions/categories/webui-feedback)
+* [WLAN Pi Wi-Fi Console](https://github.com/WLAN-Pi/wlanpi-wconsole) - [Wireless Console Feedback](https://github.com/WLAN-Pi/feedback/discussions/categories/wireless-console-feedback)
 
 These are places where discussions can happen and where you can share suggestions for how the WLAN Pi should be improved and discuss those improvements with the community, including members of the WLAN Pi team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
