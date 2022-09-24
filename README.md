@@ -3,17 +3,18 @@
 In this repository, you will find the official WLAN Pi public feedback discussions for several product areas and as well as for general product feedback.
 
 * [General Feedback](https://github.com/WLAN-Pi/feedback/discussions/categories/general-inquiries)
-* [WLAN Pi Chatbot](https://github.com/WLAN-Pi/wlanpi-chat-bot)
-* [WLAN Pi Docs](https://docs.wlanpi.com) 
-* [WLAN Pi FPMS](https://github.com/WLAN-Pi/wlanpi-fpms)
-* [WLAN Pi Hotspot](https://github.com/WLAN-Pi/wlanpi-hotspot) 
-* [WLAN Pi Profiler](https://github.com/WLAN-Pi/wlanpi-profiler) 
-* [WLAN Pi WebUI](https://github.com/WLAN-Pi/wlanpi-core) 
-* [WLAN Pi Wi-Fi Console](https://github.com/WLAN-Pi/wlanpi-wconsole) 
 
 These are places where discussions can happen and where you can share suggestions for how the WLAN Pi should be improved and discuss those improvements with the community, including members of the WLAN Pi team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
 Accordingly, the Issues feature of this repository has been disabled. Discussion categories have been established for specific features listed above, as well as a general category for other topics. 
+
+If you'd like to open an issue for a particular application, do so on the respective [WLAN Pi](https://github.com/WLAN-Pi) repo. Some examples:
+
+* [WLAN Pi - Front Panel Menu System (FPMS)](https://github.com/WLAN-Pi/wlanpi-fpms)
+* [WLAN Pi - Hotspot](https://github.com/WLAN-Pi/wlanpi-hotspot) 
+* [WLAN Pi - Profiler](https://github.com/WLAN-Pi/wlanpi-profiler) 
+* [WLAN Pi - WebUI](https://github.com/WLAN-Pi/wlanpi-core) 
+* [WLAN Pi - Wi-Fi Console](https://github.com/WLAN-Pi/wlanpi-wconsole) 
 
 # Making suggestions
 
