@@ -24,7 +24,7 @@ Prior to making a new discussion, please take a look through previous discussion
 
 # Making contributions
 
-Are you looking to contribute to [@WLAN-Pi](https://github.com/wlan-pi/)? Check out [contributing](https://github.com/WLAN-Pi/.github/blob/main/contributing.md). 
+Are you looking to contribute to [@WLAN-Pi](https://github.com/wlan-pi/)? Check out [contributing](https://github.com/WLAN-Pi/.github/blob/main/docs/contributing.md).
 
 # Disclaimer
 
